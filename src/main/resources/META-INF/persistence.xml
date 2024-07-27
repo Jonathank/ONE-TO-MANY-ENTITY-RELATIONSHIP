@@ -11,6 +11,7 @@
      
         <class>model.student.Student</class>
         <class>model.school.School</class>
+        <class>model.tutor.Tutor</class>
         <!-- Add more classes as needed -->
 
         <!-- MySQL Database Configuration -->
